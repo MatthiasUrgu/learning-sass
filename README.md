@@ -2,7 +2,7 @@
 # learning-sass
 
   * Introduction au Sass
-  * Reproduction d'une animation
+  * Reproduction d'une animation (Indian)
 
 # Technique
   * Sass 
